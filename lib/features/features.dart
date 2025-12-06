@@ -1,0 +1,1 @@
+export 'shopping/shopping.dart';
