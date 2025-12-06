@@ -269,9 +269,9 @@ User Sees Updated Selection & Total
 - For very large lists (1000+ items), might want async calculation
 - But unnecessary complexity for this use case
 
-### Local mp4 (in-repo)
-<video src="assets/demo/shopping_list_demo.mp4" controls width="720">
-</video>
+### App Demo
+
+[![Watch the demo](assets/demo/demo_screenshot.png)](https://drive.google.com/file/d/1UEshmIRNcCa-_Qpt6PGrlXjWk2RKFQza/view?usp=sharing)
 
 ## Code Quality
 

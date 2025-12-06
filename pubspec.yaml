@@ -26,4 +26,4 @@ flutter:
   assets:
     - assets/sounds/select.mp3
     - assets/sounds/deselect.mp3
-    - assets/demo/shopping_list_demo.mp4
+    - assets/demo/demo_screenshot.png
