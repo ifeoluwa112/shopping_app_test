@@ -275,12 +275,12 @@ User Sees Updated Selection & Total
 
 ## Code Quality
 
-- ✅ Follows Flutter style guide
-- ✅ Uses `flutter_lints` for code analysis
-- ✅ Immutable models with `Equatable`
-- ✅ Proper documentation comments
-- ✅ Separation of concerns
-- ✅ Reusable widgets
+- Follows Flutter style guide
+- Uses `flutter_lints` for code analysis
+- Immutable models with `Equatable`
+- Proper documentation comments
+- Separation of concerns
+- Reusable widgets
 
 ## Dependencies
 
