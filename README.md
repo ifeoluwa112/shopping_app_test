@@ -4,12 +4,12 @@ A Flutter demonstration app showcasing fundamentals including Sliver widgets, Bl
 
 ## Features
 
-- ✅ **Home Screen with Slivers**
+- **Home Screen with Slivers**
   - Collapsible app bar with "Shopping List" title
   - Pinned total price display that remains visible while scrolling
   - Smooth scrollable list of grocery items
 
-- ✅ **Interactive Item List**
+- **Interactive Item List**
   - 10 sample grocery items with names and prices
   - Tap anywhere on an item to select/deselect
   - Visual feedback with animated transitions:
@@ -18,17 +18,17 @@ A Flutter demonstration app showcasing fundamentals including Sliver widgets, Bl
     - Border highlight
     - Shopping cart icon for selected items
 
-- ✅ **Real-Time Total Calculation**
+- **Real-Time Total Calculation**
   - Instant total updates when items are selected/deselected
   - Currency formatting (e.g., "$0.00")
   - Animated number transitions
   - Color changes based on selection state
 
-- ✅ **Audio Feedback**
+- **Audio Feedback**
   - Sound effects for item selection/deselection
   - Graceful fallback to haptic feedback if sound files are unavailable
 
-- ✅ **State Management with BloC**
+- **State Management with BloC**
   - Clean separation of business logic and UI
   - Scalable architecture for complex state management
 
