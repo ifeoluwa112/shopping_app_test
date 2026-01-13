@@ -26,7 +26,7 @@ A Flutter demonstration app showcasing fundamentals including Sliver widgets, Bl
 
 - **Audio Feedback**
   - Sound effects for item selection/deselection
-  - Graceful fallback to haptic feedback if sound files are unavailable
+  - Graceful fallback to haptic feedback for when sound files are unavailable
 
 - **State Management with BloC**
   - Clean separation of business logic and UI
