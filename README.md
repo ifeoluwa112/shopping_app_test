@@ -246,7 +246,7 @@ User Sees Updated Selection & Total
 
 ### 6. Material Design 3
 
-**Decision**: Used Material 3 design system
+**Decision**: Material Design 3 System was used
 
 **Rationale**:
 - Modern, clean design
